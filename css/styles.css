@@ -15,11 +15,14 @@
 }
 
 h4{
-    color: rgb(5, 233, 5);
+    color: rgb(24, 173, 32);
+    text-shadow: 5px 5px 5px  blue;
 }
 
 .mt5{
     color: darkred;
+    text-shadow: 5px 5px 5px  rgb(0, 255, 21);
+
 }
 
 .border{
@@ -40,6 +43,8 @@ h4{
 
 .tex{
     color: darkblue;
+    text-shadow: 5px 5px 5px  rgb(214, 214, 214);
+
 }
 
 .bulutli{
